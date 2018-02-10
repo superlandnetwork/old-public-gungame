@@ -1,0 +1,7 @@
+name: GunGame
+version: 2.0.0
+authors: [leluckyy, ursinn]
+main: de.superlandnetwork.gungame.Main
+
+commands:
+   stats:
